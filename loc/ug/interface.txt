@@ -1,16 +1,16 @@
-title           : Unicode字符百科
-search          : 搜索字符
-find            : 寻找
-example         : 例子
+title           : Unicode ھەرپلەر جەدۋىلى
+search          : ھەرپ ئىزدەش
+find            : تېپىش
+example         : مىسال
 example_text    : hammer and sickle
-about           : 关于
-not_language    : 我的语言呢？
-popular         : 最热门字符
-loading         : 正在载入，请稍等
-unicode_number  : Unicode编号
-html_code       : <span class="caps">HTML</span>代码
-uppercase       : 大写
-lowercase       : 小写
+about           : ھەققىدە
+not_language    : مېنىڭ تىلىم قېنى؟
+popular         : كۆپ ئىزدەلگەن ھەرپلەر
+loading         : يۈكلىنىۋاتىدۇ، سەل ساقلاڭ...
+unicode_number  : Unicode نومۇرى
+html_code       : <span class="caps">HTML</span>كودى
+uppercase       : چوڭ يېزىلىشى
+lowercase       : كىچىك يېزىلىشى
 up              : 回顶部
 range           : 范围
 type            : 类型
